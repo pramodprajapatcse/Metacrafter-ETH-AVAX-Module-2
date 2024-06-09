@@ -16,7 +16,7 @@ The project consists of two main components:
 1. Clone the repository to your local machine.
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/pramodprajapatcse/Metacrafter-ETH-AVAX-Module-2
 ```
 
 2. Navigate to the project directory.
