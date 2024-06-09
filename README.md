@@ -1,5 +1,5 @@
 
-# Smart Contract Management Project: Function Frontend
+# Smart Contract Management Project
 
 This project is a simple ATM (Automated Teller Machine) implemented on the Ethereum blockchain. It allows users to contribute funds to the ATM and withdraw funds from it.
 
